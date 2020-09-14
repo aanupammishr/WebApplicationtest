@@ -1,0 +1,16 @@
+C:\Users\aanupammishr\source\repos\WebApplicationtest\WebApplicationtest\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\aanupammishr\source\repos\WebApplicationtest\WebApplicationtest\bin\Debug\netcoreapp2.1\WebApplicationtest.deps.json
+C:\Users\aanupammishr\source\repos\WebApplicationtest\WebApplicationtest\bin\Debug\netcoreapp2.1\WebApplicationtest.runtimeconfig.json
+C:\Users\aanupammishr\source\repos\WebApplicationtest\WebApplicationtest\bin\Debug\netcoreapp2.1\WebApplicationtest.runtimeconfig.dev.json
+C:\Users\aanupammishr\source\repos\WebApplicationtest\WebApplicationtest\bin\Debug\netcoreapp2.1\WebApplicationtest.dll
+C:\Users\aanupammishr\source\repos\WebApplicationtest\WebApplicationtest\bin\Debug\netcoreapp2.1\WebApplicationtest.pdb
+C:\Users\aanupammishr\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.1\WebApplicationtest.csprojAssemblyReference.cache
+C:\Users\aanupammishr\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.1\WebApplicationtest.AssemblyInfoInputs.cache
+C:\Users\aanupammishr\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.1\WebApplicationtest.AssemblyInfo.cs
+C:\Users\aanupammishr\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.1\WebApplicationtest.csproj.CoreCompileInputs.cache
+C:\Users\aanupammishr\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.1\WebApplicationtest.RazorAssemblyInfo.cache
+C:\Users\aanupammishr\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.1\WebApplicationtest.RazorAssemblyInfo.cs
+C:\Users\aanupammishr\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.1\WebApplicationtest.RazorTargetAssemblyInfo.cache
+C:\Users\aanupammishr\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.1\WebApplicationtest.dll
+C:\Users\aanupammishr\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.1\WebApplicationtest.pdb
+C:\Users\aanupammishr\source\repos\WebApplicationtest\WebApplicationtest\obj\Debug\netcoreapp2.1\WebApplicationtest.genruntimeconfig.cache
